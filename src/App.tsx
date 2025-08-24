@@ -321,7 +321,7 @@ function App() {
               <div className="w-2 h-2 bg-blue-400 rounded-full animate-pulse"></div>
               <span>SYSTEM READY</span>
             </div>
-            <div className="font-mono">DIGITAL-TIMER v2.1.0</div>
+            <div className="font-mono">DIGITAL-TIMER</div>
           </div>
         </div>
       </div>
